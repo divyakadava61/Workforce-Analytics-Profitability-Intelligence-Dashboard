@@ -25,28 +25,34 @@ Beyond the raw data, I engineered several calculated columns to drive deeper bus
 ## Technical Toolkit
 I utilized a wide array of Excel functions to clean, manipulate, and analyze the data:
 - **Lookup & Reference:** XLOOKUP, VLOOKUP, and UNIQUE for data mapping.
-- 
+  
 <img width="662" height="286" alt="image" src="https://github.com/user-attachments/assets/e983f9c3-959e-46c2-8585-5db2c4bdc527" />
-
+<br>
+<br>
 - **Dynamic Arrays:** Used FILTER() and SORT() to create automated reports for specific criteria (e.g., Mumbai location records, high-earners in Modern Workplace, and current month birthdays).
 
 <img width="1787" height="287" alt="image" src="https://github.com/user-attachments/assets/d9c92a4b-4213-4e4c-8575-ba5180a279e7" />
-
+<br>
+<br>
 
 <img width="1675" height="313" alt="image" src="https://github.com/user-attachments/assets/5a811bf7-1d0f-442c-976d-2b1697e4c5e3" />
 
-
+<br>
+<br>
 <img width="1270" height="378" alt="image" src="https://github.com/user-attachments/assets/dc0273af-19f5-450c-ab65-a56fd6aacd39" />
-
+<br>
+<br>
 
 - **Text Manipulation:** Cleaned and reorganized data using Flash Fill, Text-to-Columns, and the TEXTSPLIT function.
 
 <img width="592" height="408" alt="image" src="https://github.com/user-attachments/assets/155d15e5-d9cc-4a4d-8b7d-2a5aea88be23" />
-
+<br>
+<br>
 - **Descriptive Statistics:** Implemented SUMIFS, AVERAGEIFS, and MINIFS/MAXIFS to build a level-wise statistical profile.
 
 <img width="837" height="371" alt="image" src="https://github.com/user-attachments/assets/8813c931-7967-4fe4-8be2-37d709608d3b" />
-
+<br>
+<br>
 - **Pivot Tables & Calculated Fields:** Architected the backend of the dashboard to ensure "weighted" profit margins remained accurate when filtered.
   
 ## Key Business Insights
