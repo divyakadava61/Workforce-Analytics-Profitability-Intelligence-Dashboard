@@ -69,9 +69,11 @@ I utilized a wide array of Excel functions to clean, manipulate, and analyze the
 - Overall Profit Margin: 60.69%
 
 - Average Tenure: 14.9 Years (Indicating a highly stable and loyal workforce).
+
 2. Departmental Performance
   
 **Data & Analytics** and **Modern Workplace** emerged as the primary revenue engines. Interestingly, while these departments generate significantly higher revenue, the operational costs across all departments remain relatively uniform, making these two the most efficient "Value Centers."
+
 3. The "Profitability Sweet Spot"
 
 The data reveals that **Trainee** and **Analyst** level employees generate the highest profit margins **(89.52%).**
