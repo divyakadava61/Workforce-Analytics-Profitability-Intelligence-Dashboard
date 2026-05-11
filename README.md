@@ -70,18 +70,26 @@ I utilized a wide array of Excel functions to clean, manipulate, and analyze the
 
 - Average Tenure: 14.9 Years (Indicating a highly stable and loyal workforce).
 2. Departmental Performance
+  
 **Data & Analytics** and **Modern Workplace** emerged as the primary revenue engines. Interestingly, while these departments generate significantly higher revenue, the operational costs across all departments remain relatively uniform, making these two the most efficient "Value Centers."
 3. The "Profitability Sweet Spot"
+
 The data reveals that **Trainee** and **Analyst** level employees generate the highest profit margins **(89.52%).**
+
 **Recommendation:** Scale the intake and training of these entry-to-mid-level roles. Investing in these levels offers the highest Return on Investment (ROI) due to the low cost-to-revenue ratio.
+
 4. Effort vs. Recognition
+
 The **Scatterplot Analysis** (Hours Worked vs. Rating) showed that performance ratings across the 1–5 scale all fell within the 120–175 hour range.
 - **Finding:** Total billable hours is not a determining factor for a high rating.
 - **Recommendation:** Management should focus on "Quality of Output" rather than "Volume of Hours" when discussing performance reviews with staff.
+
 5. Revenue vs. Pay Equity
+   
 In **Sr. Manager** roles, a distinct trend was found: Male employees generate higher average revenue than their Female counterparts, despite having a lower average base salary.
 
 - **Actionable Insight:** This discrepancy poses a significant Employee Churn Risk. Adjusting compensation structures to align better with revenue generation across genders is recommended to maintain talent equity.
+  
 ## The Dashboard
 The final output is an interactive dashboard featuring:
 
